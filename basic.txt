@@ -1,0 +1,9 @@
+Homework:
+    - Vẽ ra thêm 2 table cho hai đối tượng 
+        - Pet: id, tên, năm sinh, chủng loại.
+        - Apartment: id, số phòng, diện tích, phòng ngủ, phòng tắm.
+    - Vẽ ra forms điền thông tin cả 3 table: User, Pet, Apartment.
+
+Next lession:
+- Ôn lại HTML, CSS, Javascript.
+- Học git.
